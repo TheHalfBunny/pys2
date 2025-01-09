@@ -2825,3 +2825,167 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [22:50:24] [Server thread/WARN]: hay_t moved wrongly!
 [22:52:41] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
 [22:52:45] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[22:54:13] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[22:54:28] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[22:54:45] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[22:56:07] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[22:57:28] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[22:57:44] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[23:03:19] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[23:04:18] [Server thread/INFO]: [TheHalfBunnyYT: Applied enchantment Fortune III to TheHalfBunnyYT's item]
+[23:04:22] [Server thread/INFO]: [TheHalfBunnyYT: Applied enchantment Efficiency V to TheHalfBunnyYT's item]
+[23:04:25] [Server thread/INFO]: [TheHalfBunnyYT: Applied enchantment Unbreaking III to TheHalfBunnyYT's item]
+[23:04:30] [Server thread/INFO]: [TheHalfBunnyYT: Applied enchantment Efficiency V to TheHalfBunnyYT's item]
+[23:04:44] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[23:06:30] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2813@7b5fff56, suppressing error
+net.minecraft.class_148: Container click
+	at net.minecraft.class_1703.method_7593(class_1703.java:304) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12076(class_3244.java:1682) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2813.method_12191(class_2813.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2813.method_11054(class_2813.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_5383(class_1255.java:115) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at draylar.tiered.api.ModifierUtils.getRandomAttributeIDFor(ModifierUtils.java:84) ~[Tierify-FABRIC-1.20.1-1.2.0.jar:?]
+	at draylar.tiered.api.ModifierUtils.setItemStackAttribute(ModifierUtils.java:238) ~[Tierify-FABRIC-1.20.1-1.2.0.jar:?]
+	at net.minecraft.class_1792.handler$dog001$tiered$onCraftMixin(class_1792.java:7037) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1792.method_7843(class_1792.java:332) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1714.method_17400(class_1714.java:123) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3914.method_17394(class_3914.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3914$2.method_17395(class_3914.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3914.method_17393(class_3914.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1714.method_7601(class_1714.java:123) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1703.method_30010(class_1703.java:394) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1703.method_7593(class_1703.java:294) ~[server-intermediary.jar:?]
+	... 17 more
+[23:06:38] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2813@5019a62a, suppressing error
+net.minecraft.class_148: Container click
+	at net.minecraft.class_1703.method_7593(class_1703.java:304) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12076(class_3244.java:1682) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2813.method_12191(class_2813.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2813.method_11054(class_2813.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at draylar.tiered.api.ModifierUtils.getRandomAttributeIDFor(ModifierUtils.java:84) ~[Tierify-FABRIC-1.20.1-1.2.0.jar:?]
+	at draylar.tiered.api.ModifierUtils.setItemStackAttribute(ModifierUtils.java:238) ~[Tierify-FABRIC-1.20.1-1.2.0.jar:?]
+	at net.minecraft.class_1792.handler$dog001$tiered$onCraftMixin(class_1792.java:7037) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1792.method_7843(class_1792.java:332) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1714.method_17400(class_1714.java:123) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3914.method_17394(class_3914.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3914$2.method_17395(class_3914.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3914.method_17393(class_3914.java:34) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1714.method_7601(class_1714.java:123) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1703.method_30010(class_1703.java:394) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1703.method_7593(class_1703.java:294) ~[server-intermediary.jar:?]
+	... 17 more
+[23:06:44] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2813@1d67d484, suppressing error
+net.minecraft.class_148: Container click
+	at net.minecraft.class_1703.method_7593(class_1703.java:304) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3244.method_12076(class_3244.java:1682) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2813.method_12191(class_2813.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2813.method_11054(class_2813.java:13) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2600.method_11072(class_2600.java:22) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3738.run(class_3738.java:18) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4093.method_18859(class_4093.java:23) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:743) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: bound must be positive
+	at java.util.Random.nextInt(Random.java:322) ~[?:?]
+	at draylar.tiered.api.ModifierUtils.getRandomAttributeIDFor(ModifierUtils.java:84) ~[Tierify-FABRIC-1.20.1-1.2.0.jar:?]
+	at draylar.tiered.api.ModifierUtils.setItemStackAttribute(ModifierUtils.java:238) ~[Tierify-FABRIC-1.20.1-1.2.0.jar:?]
+	at net.minecraft.class_1792.handler$dog001$tiered$onCraftMixin(class_1792.java:7037) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1792.method_7843(class_1792.java:332) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1799.method_7982(class_1799.java:496) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1734.method_7669(class_1734.java:47) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1734.method_7667(class_1734.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1703.method_34249(class_1703.java:421) ~[server-intermediary.jar:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at net.minecraft.class_1703.method_30010(class_1703.java:419) ~[server-intermediary.jar:?]
+	at net.minecraft.class_1703.method_7593(class_1703.java:294) ~[server-intermediary.jar:?]
+	... 17 more
+[23:08:26] [Server thread/WARN]: hay_t was kicked for floating too long!
+[23:08:26] [Server thread/INFO]: hay_t lost connection: Flying is not enabled on this server
+[23:08:26] [Server thread/INFO]: hay_t left the game
+[23:08:26] [Server thread/INFO]: [voicechat] Disconnecting client hay_t
+[23:08:30] [Server thread/INFO]: [Handshake] Sending channel query
+[23:08:30] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[23:08:30] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[23:08:30] [Server thread/INFO]: hay_t[/127.171.144.103:49463] logged in with entity id 23842 at (334.83247051213755, 67.15814676123665, 582.4728776691604)
+[23:08:30] [Server thread/INFO]: Sending server config values to client
+[23:08:30] [Server thread/INFO]: Loading config from file...
+[23:08:30] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:08:30] [Server thread/INFO]: hay_t joined the game
+[23:08:30] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[23:08:30] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23:08:30] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player hay_t. Claiming: GRAVE / Robbing: INVENTORY
+[23:08:30] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23:08:30] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23:08:30] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23:08:30] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/pys2/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:08:30] [Server thread/INFO]: [voicechat] Received secret request of hay_t (18)
+[23:08:30] [Server thread/INFO]: [voicechat] Sent secret to hay_t
+[23:08:31] [Netty Epoll Server IO #2/INFO]: [ShulkerBoxTooltip] hay_t: protocol version: 2.0
+[23:08:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f4ce44c5-99e7-31c5-b682-fc9ae9577611
+[23:08:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f4ce44c5-99e7-31c5-b682-fc9ae9577611
+[23:08:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hay_t (f4ce44c5-99e7-31c5-b682-fc9ae9577611) successfully connected to voice chat
+[23:08:41] [Server thread/INFO]: [Not Secure] <hay_t> pqp eu lago no ar e caio do jogo
+[23:09:18] [Worker-Main-32/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23:09:18] [Worker-Main-32/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[23:09:19] [Worker-Main-32/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[23:11:16] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> adicionar mais mob ajudaria...
+[23:11:20] [Server thread/INFO]: [Not Secure] <hay_t> como assim
+[23:11:21] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> um apotheosis..
+[23:11:33] [Server thread/INFO]: [Not Secure] <hay_t> e quem usa apotheosis alem de mim?
+[23:11:37] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> eu
+[23:11:40] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> pra caralho ainda
+[23:11:52] [Server thread/INFO]: [Not Secure] <hay_t> se for adicionar mais mod eu quero addon do create
+[23:12:10] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> bl kk
