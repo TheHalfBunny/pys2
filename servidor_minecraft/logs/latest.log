@@ -3588,3 +3588,41 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [23:42:08] [Server thread/INFO]: [Not Secure] [Server] nyehehehe
 [23:42:54] [Server thread/INFO]: [Not Secure] <hay_t> oq foi half
 [23:43:08] [Server thread/INFO]: New Schematic Uploaded: hay_t/ilhav3.nbt
+[23:46:00] [Server thread/WARN]: hay_t was kicked for floating too long!
+[23:46:00] [Server thread/INFO]: hay_t lost connection: Flying is not enabled on this server
+[23:46:00] [Server thread/INFO]: hay_t left the game
+[23:46:00] [Server thread/INFO]: [voicechat] Disconnecting client hay_t
+[23:46:04] [Server thread/INFO]: [Handshake] Sending channel query
+[23:46:04] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[23:46:04] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[23:46:04] [Server thread/INFO]: hay_t[/127.171.144.103:43457] logged in with entity id 35538 at (623.2376250095859, 182.0, 728.7050766206712)
+[23:46:04] [Server thread/INFO]: Sending server config values to client
+[23:46:04] [Server thread/INFO]: Loading config from file...
+[23:46:04] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[23:46:04] [Server thread/INFO]: hay_t joined the game
+[23:46:04] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[23:46:04] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[23:46:04] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[23:46:04] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[23:46:04] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[23:46:04] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/pys2/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:46:04] [Server thread/INFO]: [voicechat] Received secret request of hay_t (18)
+[23:46:04] [Server thread/INFO]: [voicechat] Sent secret to hay_t
+[23:46:04] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player hay_t. Claiming: GRAVE / Robbing: INVENTORY
+[23:46:04] [Netty Epoll Server IO #2/INFO]: [ShulkerBoxTooltip] hay_t: protocol version: 2.0
+[23:46:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f4ce44c5-99e7-31c5-b682-fc9ae9577611
+[23:46:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f4ce44c5-99e7-31c5-b682-fc9ae9577611
+[23:46:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hay_t (f4ce44c5-99e7-31c5-b682-fc9ae9577611) successfully connected to voice chat
