@@ -25,6 +25,7 @@
       "minecraft:river": "2025-01-09 23:08:17 +0000",
       "minecraft:forest": "2025-01-09 23:08:24 +0000",
       "minecraft:lush_caves": "2025-01-09 01:54:38 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-09 23:20:50 +0000",
       "minecraft:savanna": "2025-01-09 23:09:07 +0000",
       "minecraft:plains": "2025-01-09 23:08:47 +0000"
     },
@@ -1545,6 +1546,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-01-09 23:17:08 +0000",
       "porkchop": "2025-01-09 01:39:33 +0000",
       "bread": "2025-01-09 02:33:08 +0000"
     },
@@ -3777,6 +3779,7 @@
   },
   "betternether:nether_wood": {
     "criteria": {
+      "got_nether_reed": "2025-01-09 23:20:11 +0000",
       "got_nether_mushroom": "2025-01-09 22:04:55 +0000"
     },
     "done": false
@@ -4129,21 +4132,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_baked_potato": "2025-01-09 23:10:29 +0000"
+      "has_apple": "2025-01-09 23:09:57 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-09 23:09:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-01-09 23:09:57 +0000"
     },
     "done": true
   },
@@ -4171,9 +4168,303 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-09 23:10:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-01-09 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-09 23:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-09 23:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-09 23:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-09 23:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-09 23:13:43 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-01-09 23:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-09 23:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-09 23:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-09 23:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-09 23:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-09 23:13:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-09 23:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-09 23:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-09 23:13:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-09 23:14:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/paper": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-09 23:20:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_the_recipe": "2025-01-09 23:21:42 +0000"
     },
     "done": true
   },
