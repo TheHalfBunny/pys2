@@ -2081,3 +2081,110 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [21:51:05] [Server thread/INFO]: [Not Secure] [Server] ih
 [21:51:08] [Server thread/INFO]: [Not Secure] [Server] ah ta suave
+[21:52:13] [Server thread/INFO]: hay_t has made the advancement [Hidden in the Depths]
+[21:57:08] [Server thread/INFO]: hay_t has made the advancement [Into Fire]
+[21:57:53] [Server thread/INFO]: hay_t was burnt to a crisp whilst fighting Blaze
+[22:02:48] [Server thread/INFO]: [Handshake] Sending channel query
+[22:02:48] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[22:02:48] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[22:02:49] [ForkJoinPool.commonPool-worker-6/WARN]: Failed to fetch skin: no profile with name thehalfbunnyyt
+[22:02:49] [Server thread/INFO]: TheHalfBunnyYT[/127.70.150.133:43155] logged in with entity id 4861 at (-112.09084605553517, 60.0, -336.1326531901886)
+[22:02:49] [Server thread/INFO]: Sending server config values to client
+[22:02:49] [Server thread/INFO]: Loading config from file...
+[22:02:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:02:49] [Server thread/INFO]: TheHalfBunnyYT joined the game
+[22:02:49] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[22:02:52] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player TheHalfBunnyYT. Claiming: GRAVE / Robbing: INVENTORY
+[22:02:52] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22:02:52] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22:02:52] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22:02:52] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22:02:52] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/pys2/servidor_minecraft/bclib-sync (allowDelete=true)
+[22:02:52] [Server thread/INFO]: [voicechat] Received secret request of TheHalfBunnyYT (18)
+[22:02:52] [Server thread/INFO]: [voicechat] Sent secret to TheHalfBunnyYT
+[22:02:53] [Netty Epoll Server IO #6/INFO]: [ShulkerBoxTooltip] TheHalfBunnyYT: protocol version: 2.0
+[22:02:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1316fb8a-77be-385d-82b3-15350c8ee35c
+[22:03:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1316fb8a-77be-385d-82b3-15350c8ee35c
+[22:03:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player TheHalfBunnyYT (1316fb8a-77be-385d-82b3-15350c8ee35c) successfully connected to voice chat
+[22:03:01] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> foi
+[22:03:02] [Server thread/INFO]: [Not Secure] <hay_t> me puxa
+[22:03:03] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> olá
+[22:03:09] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[22:03:11] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> pera ae
+[22:03:18] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> cho entra no criativo rapidão pq ta chei de mod aqui perto
+[22:03:24] [Server thread/WARN]: hay_t was kicked for floating too long!
+[22:03:24] [Server thread/INFO]: hay_t lost connection: Flying is not enabled on this server
+[22:03:24] [Server thread/INFO]: hay_t left the game
+[22:03:24] [Server thread/INFO]: [voicechat] Disconnecting client hay_t
+[22:03:32] [Server thread/INFO]: [Handshake] Sending channel query
+[22:03:32] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[22:03:32] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[22:03:32] [Server thread/INFO]: hay_t[/127.171.144.103:34475] logged in with entity id 5669 at (210.97892391543212, 65.11650136792812, 23.474334191391105)
+[22:03:32] [Server thread/INFO]: Sending server config values to client
+[22:03:32] [Server thread/INFO]: Loading config from file...
+[22:03:32] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:03:32] [Server thread/INFO]: hay_t joined the game
+[22:03:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22:03:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22:03:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22:03:32] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22:03:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/pys2/servidor_minecraft/bclib-sync (allowDelete=true)
+[22:03:32] [Server thread/INFO]: [voicechat] Received secret request of hay_t (18)
+[22:03:32] [Server thread/INFO]: [voicechat] Sent secret to hay_t
+[22:03:32] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player hay_t. Claiming: GRAVE / Robbing: INVENTORY
+[22:03:32] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[22:03:33] [Netty Epoll Server IO #7/INFO]: [ShulkerBoxTooltip] hay_t: protocol version: 2.0
+[22:03:35] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player f4ce44c5-99e7-31c5-b682-fc9ae9577611
+[22:03:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f4ce44c5-99e7-31c5-b682-fc9ae9577611
+[22:03:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hay_t (f4ce44c5-99e7-31c5-b682-fc9ae9577611) successfully connected to voice chat
+[22:03:39] [Worker-Main-17/INFO]: [betternether] BBox:class_3341{minX=360, minY=22, minZ=-808, maxX=520, maxY=96, maxZ=-648}
+[22:03:42] [Server thread/INFO]: [Not Secure] <hay_t> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[22:03:47] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> q isso meu filho calma
+[22:03:54] [Server thread/INFO]: [TheHalfBunnyYT: Teleported hay_t to TheHalfBunnyYT]
+[22:03:55] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> pronto
+[22:03:58] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> olá marilene
+[22:03:59] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[22:04:01] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> atras de tu
+[22:04:28] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> man
+[22:04:30] [Server thread/INFO]: [Not Secure] <TheHalfBunnyYT> se quer item?
+[22:04:34] [Server thread/INFO]: [Not Secure] <hay_t> uma picareta.
+[22:05:19] [Server thread/INFO]: [TheHalfBunnyYT: TheHalfBunnyYT stats got changed]
+[22:06:03] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Spectator Mode]
+[22:06:06] [Server thread/INFO]: [TheHalfBunnyYT: Teleported TheHalfBunnyYT to hay_t]
+[22:06:09] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[22:06:33] [Server thread/INFO]: hay_t has made the advancement [Those Were the Days]
+[22:08:31] [Server thread/INFO]: hay_t burned to death
+[22:08:35] [Server thread/INFO]: [Not Secure] <hay_t> me puxa
+[22:09:00] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[22:09:10] [Server thread/INFO]: [Not Secure] <hay_t> ME PUXA
+[22:09:17] [Server thread/INFO]: [TheHalfBunnyYT: Teleported hay_t to TheHalfBunnyYT]
+[22:09:18] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[22:09:58] [Server thread/INFO]: TheHalfBunnyYT has made the advancement [Those Were the Days]
+[22:11:06] [Server thread/INFO]: hay_t claimed a grave belonging to hay_t at 110, 46, -9, minecraft:the_nether
+[22:11:53] [Server thread/INFO]: hay_t claimed a grave belonging to hay_t at 107, 37, -3, minecraft:the_nether
