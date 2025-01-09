@@ -1,0 +1,11 @@
+banner:
+  lang: en
+  stackdeobf: true
+  show_logo: true
+compat:
+  skipOtherWorldPreparing: true
+threadpriority:
+  server_thread: 8
+motd:
+  firstline: <RAINBOW1>A Minecraft Server</RAINBOW>
+  secondline: ''
