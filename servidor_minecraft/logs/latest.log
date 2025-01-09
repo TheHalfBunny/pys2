@@ -3575,3 +3575,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[23:23:54] [Worker-Main-60/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[23:23:54] [Worker-Main-60/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[23:23:54] [Worker-Main-60/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[23:24:45] [Server thread/INFO]: TheHalfBunnyYT lost connection: Disconnected
+[23:24:45] [Server thread/INFO]: TheHalfBunnyYT left the game
+[23:24:45] [Server thread/INFO]: [voicechat] Disconnecting client TheHalfBunnyYT
+[23:25:02] [Server thread/INFO]: [Not Secure] [Server] eu vou manter o server aberto
+[23:25:06] [Server thread/INFO]: [Not Secure] <hay_t> ok
+[23:27:19] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:27:19] [Server thread/INFO]: fuji<--[HERE]
