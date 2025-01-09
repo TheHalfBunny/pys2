@@ -1452,6 +1452,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-01-09 22:26:43 +0000",
       "bread": "2025-01-09 02:03:43 +0000",
       "rotten_flesh": "2025-01-09 01:32:18 +0000"
     },
@@ -5310,6 +5311,12 @@
   "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
     "criteria": {
       "has_nether_mushroom_stem": "2025-01-09 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:caelestis": {
+    "criteria": {
+      "requirement": "2025-01-09 22:27:23 +0000"
     },
     "done": true
   },
