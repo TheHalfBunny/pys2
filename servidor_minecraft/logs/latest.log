@@ -2293,3 +2293,5 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
 [15:00:08] [Server thread/INFO]: [TheHalfBunnyYT: Tiered Crystalite Helmet from TheHalfBunnyYT]
+[15:21:13] [DefaultDispatcher-worker-2/WARN]: You are running an outdated version of TPA++, latest version: 1.6.0-1.20.x-UNTESTED-BETA-3, your version: 1.6.0-1.20.x-RELEASE-CANDIDATE-1!
+[15:21:13] [DefaultDispatcher-worker-2/WARN]: You are 1 version(s) out of date!
