@@ -2908,3 +2908,6 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [16:06:50] [Server thread/INFO]: hay_t lost connection: Disconnected
 [16:06:50] [Server thread/INFO]: hay_t left the game
 [16:06:50] [Server thread/INFO]: [voicechat] Disconnecting client hay_t
+[16:16:54] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[16:21:15] [DefaultDispatcher-worker-2/WARN]: You are running an outdated version of TPA++, latest version: 1.6.0-1.20.x-UNTESTED-BETA-3, your version: 1.6.0-1.20.x-RELEASE-CANDIDATE-1!
+[16:21:15] [DefaultDispatcher-worker-2/WARN]: You are 1 version(s) out of date!
