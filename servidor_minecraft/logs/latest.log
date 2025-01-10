@@ -2178,3 +2178,10 @@ Caused by: java.lang.IllegalArgumentException: bound must be positive
 	at net.minecraft.class_1703.method_7593(class_1703.java:294) ~[server-intermediary.jar:?]
 	... 17 more
 [12:47:18] [Server thread/INFO]: TheHalfBunnyYT has made the advancement [A Throwaway Joke]
+[12:49:05] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[12:55:25] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[12:55:43] [Server thread/INFO]: [TheHalfBunnyYT: Tiered Fireruby Shovel from TheHalfBunnyYT]
+[12:55:45] [Server thread/INFO]: [TheHalfBunnyYT: Tiered Fireruby Hoe from TheHalfBunnyYT]
+[12:55:48] [Server thread/INFO]: [TheHalfBunnyYT: Nothing changed. Trident from TheHalfBunnyYT has no given tier]
+[12:57:28] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[12:57:52] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]

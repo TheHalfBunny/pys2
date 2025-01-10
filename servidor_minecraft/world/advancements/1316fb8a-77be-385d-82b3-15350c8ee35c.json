@@ -1477,6 +1477,7 @@
     "criteria": {
       "cooked_beef": "2025-01-09 22:26:43 +0000",
       "apple": "2025-01-09 22:50:33 +0000",
+      "cooked_cod": "2025-01-10 12:47:32 +0000",
       "bread": "2025-01-09 02:03:43 +0000",
       "rotten_flesh": "2025-01-09 01:32:18 +0000",
       "carrot": "2025-01-10 01:54:48 +0000"
@@ -5251,7 +5252,9 @@
   },
   "betternether:flaming_tools": {
     "criteria": {
+      "flaming_ruby_EquipmentSlot[name\u003dshovel, category\u003dTOOLS]": "2025-01-10 12:55:33 +0000",
       "flaming_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-01-09 03:11:42 +0000",
+      "flaming_ruby_EquipmentSlot[name\u003dhoe, category\u003dTOOLS]": "2025-01-10 12:55:34 +0000",
       "flaming_ruby_EquipmentSlot[name\u003daxe, category\u003dTOOLS]": "2025-01-09 03:11:27 +0000"
     },
     "done": false
