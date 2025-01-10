@@ -2874,3 +2874,4 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [15:38:08] [Server thread/INFO]: TheHalfBunnyYT lost connection: Disconnected
 [15:38:08] [Server thread/INFO]: TheHalfBunnyYT left the game
 [15:38:08] [Server thread/INFO]: [voicechat] Disconnecting client TheHalfBunnyYT
+[15:54:28] [Server thread/INFO]: There are 0 of a max of 20 players online: 
