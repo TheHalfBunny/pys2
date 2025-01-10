@@ -1,6 +1,6 @@
 {
 	// Maximum level per skills
-	"maxLevel": 20,
+	"maxLevel": 25,
 	// Maximum level: 0 = disabled
 	"overallMaxLevel": 0,
 	// In combination with overallMaxLevel, only when all skills maxed
