@@ -52,3 +52,36 @@
 [00:37:18] [Server thread/INFO]: hay_t left the game
 [00:37:18] [Server thread/INFO]: [voicechat] Disconnecting client hay_t
 [00:45:56] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[00:58:18] [Server thread/INFO]: [Handshake] Sending channel query
+[00:58:18] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[00:58:18] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[00:58:18] [Server thread/INFO]: MeskoCyn[/127.255.14.135:41993] logged in with entity id 46020 at (3.5, 67.0, 6.5)
+[00:58:18] [Server thread/INFO]: Sending server config values to client
+[00:58:18] [Server thread/INFO]: Loading config from file...
+[00:58:18] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:58:18] [Server thread/INFO]: MeskoCyn joined the game
+[00:58:19] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:58:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:58:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:58:20] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player MeskoCyn. Claiming: GRAVE / Robbing: INVENTORY
+[00:58:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:58:20] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:58:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/pys2/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:58:20] [Server thread/INFO]: [voicechat] Received secret request of MeskoCyn (18)
+[00:58:20] [Server thread/INFO]: [voicechat] Sent secret to MeskoCyn
+[00:58:20] [Server thread/INFO]: MeskoCyn lost connection: Disconnected
+[00:58:20] [Server thread/INFO]: MeskoCyn left the game
+[00:58:20] [Server thread/INFO]: [voicechat] Disconnecting client MeskoCyn
