@@ -85,3 +85,81 @@
 [00:58:20] [Server thread/INFO]: MeskoCyn lost connection: Disconnected
 [00:58:20] [Server thread/INFO]: MeskoCyn left the game
 [00:58:20] [Server thread/INFO]: [voicechat] Disconnecting client MeskoCyn
+[01:04:30] [Server thread/INFO]: [Handshake] Sending channel query
+[01:04:30] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[01:04:30] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[01:04:30] [Server thread/INFO]: MeskoCyn[/127.255.14.135:41061] logged in with entity id 46080 at (3.5, 67.0, 6.5)
+[01:04:30] [Server thread/INFO]: Sending server config values to client
+[01:04:30] [Server thread/INFO]: Loading config from file...
+[01:04:30] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:04:30] [Server thread/INFO]: MeskoCyn joined the game
+[01:04:31] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[01:04:32] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MeskoCyn. Claiming: GRAVE / Robbing: INVENTORY
+[01:04:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:04:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:04:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:04:32] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/pys2/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:04:32] [Server thread/INFO]: [voicechat] Received secret request of MeskoCyn (18)
+[01:04:32] [Server thread/INFO]: [voicechat] Sent secret to MeskoCyn
+[01:04:33] [Netty Epoll Server IO #4/INFO]: [ShulkerBoxTooltip] MeskoCyn: protocol version: 2.0
+[01:04:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4f975988-e267-3dc8-8d4c-08bb63b66988
+[01:04:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4f975988-e267-3dc8-8d4c-08bb63b66988
+[01:04:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MeskoCyn (4f975988-e267-3dc8-8d4c-08bb63b66988) successfully connected to voice chat
+[01:04:43] [Netty Epoll Server IO #4/INFO]: [bclib] Client requested 2 Files:
+[01:04:43] [Netty Epoll Server IO #4/INFO]: [bclib] 	- bclib.CONFIG_betternether.items
+[01:04:43] [Netty Epoll Server IO #4/INFO]: [bclib] 	- bclib.CONFIG_betternether.biomes
+[01:04:43] [Server thread/INFO]: [bclib] Sending 2 Files to Client:
+[01:04:43] [Server thread/INFO]: [bclib] 	- bclib.CONFIG_betternether.items (4.1 KiB)
+[01:04:43] [Server thread/INFO]: [bclib] 	- bclib.CONFIG_betternether.biomes (3.5 KiB)
+[01:04:44] [Server thread/INFO]: MeskoCyn lost connection: Disconnected
+[01:04:44] [Server thread/INFO]: MeskoCyn left the game
+[01:04:44] [Server thread/INFO]: [voicechat] Disconnecting client MeskoCyn
+[01:11:57] [Server thread/INFO]: [Handshake] Sending channel query
+[01:11:58] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[01:11:58] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[01:11:58] [Server thread/INFO]: MeskoCyn[/127.255.14.135:53247] logged in with entity id 46148 at (3.5, 67.0, 6.5)
+[01:11:58] [Server thread/INFO]: Sending server config values to client
+[01:11:58] [Server thread/INFO]: Loading config from file...
+[01:11:58] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:11:58] [Server thread/INFO]: MeskoCyn joined the game
+[01:11:59] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[01:12:00] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player MeskoCyn. Claiming: GRAVE / Robbing: INVENTORY
+[01:12:00] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:12:00] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:12:00] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:12:00] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:12:00] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/pys2/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:12:00] [Server thread/INFO]: [voicechat] Received secret request of MeskoCyn (18)
+[01:12:00] [Server thread/INFO]: [voicechat] Sent secret to MeskoCyn
+[01:12:01] [Netty Epoll Server IO #6/INFO]: [ShulkerBoxTooltip] MeskoCyn: protocol version: 2.0
+[01:12:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 4f975988-e267-3dc8-8d4c-08bb63b66988
+[01:12:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 4f975988-e267-3dc8-8d4c-08bb63b66988
+[01:12:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player MeskoCyn (4f975988-e267-3dc8-8d4c-08bb63b66988) successfully connected to voice chat
+[01:12:45] [Server thread/INFO]: MeskoCyn has made the advancement [Monster Hunter]
