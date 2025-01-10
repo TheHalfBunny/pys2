@@ -41,3 +41,10 @@
 [00:09:13] [Server thread/WARN]: hay_t moved too quickly! 0.0,-10.55660261462009,0.0
 [00:09:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player f4ce44c5-99e7-31c5-b682-fc9ae9577611
 [00:09:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player hay_t (f4ce44c5-99e7-31c5-b682-fc9ae9577611) successfully connected to voice chat
+[00:26:18] [Server thread/WARN]: hay_t moved wrongly!
+[00:26:41] [Server thread/INFO]: [Not Secure] [Server] i support the death penalty :D
+[00:26:47] [Server thread/INFO]: [Not Secure] <hay_t> D:
+[00:28:43] [Server thread/INFO]: Villager class_1646['Vanda'/38517, l='ServerLevel[world]', x=640.77, y=67.00, z=629.51] died, message: 'Vanda was slain by Zombie'
+[00:28:43] [Server thread/INFO]: Named entity class_1646['Vanda'/38517, l='ServerLevel[world]', x=640.77, y=67.00, z=629.51] died: Vanda was slain by Zombie
+[00:33:48] [Server thread/INFO]: [Not Secure] [Server] NOOOOOOOOOOOOOO
+[00:33:52] [Server thread/INFO]: [Not Secure] [Server] VANDA MORREU D:
