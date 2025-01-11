@@ -2260,3 +2260,7 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:42:08] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
 [02:42:58] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
 [02:43:01] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:43:58] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:45:32] [Server thread/INFO]: TheHalfBunnyYT lost connection: Disconnected
+[02:45:32] [Server thread/INFO]: TheHalfBunnyYT left the game
+[02:45:32] [Server thread/INFO]: [voicechat] Disconnecting client TheHalfBunnyYT

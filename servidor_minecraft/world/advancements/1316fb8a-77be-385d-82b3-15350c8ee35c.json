@@ -8273,7 +8273,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "roasted_mutton_chops": "2025-01-10 15:29:17 +0000"
+      "roasted_mutton_chops": "2025-01-10 15:29:17 +0000",
+      "squid_ink_pasta": "2025-01-11 02:41:56 +0000"
     },
     "done": false
   },
