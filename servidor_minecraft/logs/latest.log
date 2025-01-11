@@ -2229,3 +2229,12 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [01:53:18] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
 [02:00:08] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
 [02:00:50] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:04:17] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:06:57] [Server thread/WARN]: TheHalfBunnyYT moved wrongly!
+[02:07:03] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:10:04] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:10:39] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:11:05] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:12:08] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:12:14] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:12:27] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
