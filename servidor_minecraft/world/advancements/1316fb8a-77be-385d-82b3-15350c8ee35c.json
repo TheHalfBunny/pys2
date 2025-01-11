@@ -8284,6 +8284,12 @@
     },
     "done": true
   },
+  "zenith:affix/socket": {
+    "criteria": {
+      "socket": "2025-01-11 01:52:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 02:28:43 +0000"
@@ -8347,12 +8353,6 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 02:28:43 +0000"
-    },
-    "done": true
-  },
-  "zenith:affix/socket": {
-    "criteria": {
-      "socket": "2025-01-11 01:52:50 +0000"
     },
     "done": true
   },
