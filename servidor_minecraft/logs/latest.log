@@ -2244,3 +2244,19 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [02:28:25] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
 [02:33:21] [DefaultDispatcher-worker-2/WARN]: You are running an outdated version of TPA++, latest version: 1.6.0-1.20.x-UNTESTED-BETA-3, your version: 1.6.0-1.20.x-RELEASE-CANDIDATE-1!
 [02:33:21] [DefaultDispatcher-worker-2/WARN]: You are 1 version(s) out of date!
+[02:35:18] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:35:58] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:36:22] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:36:27] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:36:34] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:37:11] [Server thread/INFO]: [TheHalfBunnyYT: TheHalfBunnyYT stats got changed]
+[02:37:52] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:40:12] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:40:20] [Server thread/WARN]: TheHalfBunnyYT moved wrongly!
+[02:40:21] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:40:43] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:40:52] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:41:07] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:42:08] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
+[02:42:58] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Survival Mode]
+[02:43:01] [Server thread/INFO]: [TheHalfBunnyYT: Set own game mode to Creative Mode]
