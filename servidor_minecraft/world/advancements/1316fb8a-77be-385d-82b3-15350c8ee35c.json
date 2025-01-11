@@ -8283,5 +8283,11 @@
     },
     "done": true
   },
+  "zenith:affix/socket": {
+    "criteria": {
+      "socket": "2025-01-11 01:52:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
